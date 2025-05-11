@@ -23,6 +23,10 @@ print("Mp_Gwas_Zdf_v1.py is starting successfully!")
 def log(message):
     print(message)
     sys.stdout.flush()
+    
+def log10(message):
+    print(message)
+    sys.stdout.flush()    
 
 # File paths for new data (Lab_PC)
 # gwas_file = "C:/Users/YarivB02/OneDrive/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/gwas_blink_model_info_b_pos_v1.csv"

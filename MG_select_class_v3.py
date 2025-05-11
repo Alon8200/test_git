@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 from collections import Counter
 
 print("Mp_Gwas_Zdf_v1.py is starting successfully!")
-
+#AAAA
 def log(message):
     print(message)
     sys.stdout.flush()

@@ -28,7 +28,7 @@ def log(message):
 def log10(message):
     print(message)
     sys.stdout.flush()    
-
+#Matlab
 # File paths for new data (Lab_PC)
 # gwas_file = "C:/Users/YarivB02/OneDrive/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/gwas_blink_model_info_b_pos_v1.csv"
 # metabolites_file = "C:/Users/YarivB02/OneDrive/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/metabolties_info_b_pos_v1.csv"

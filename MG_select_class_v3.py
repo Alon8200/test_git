@@ -25,10 +25,11 @@ def log(message):
     print(message)
     sys.stdout.flush()
 
-# File paths for new data
+# File paths for new data (Lab_PC)
 # gwas_file = "C:/Users/YarivB02/OneDrive/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/gwas_blink_model_info_b_pos_v1.csv"
 # metabolites_file = "C:/Users/YarivB02/OneDrive/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/metabolties_info_b_pos_v1.csv"
 # index_file = "C:/Users/YarivB02/OneDrive/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/metabolites_ids_b_pos_v2.csv"
+# File paths for new data (Home_PC)
 gwas_file = "C:/Users/YarivBNB02/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/gwas_blink_model_info_b_pos_v1.csv"
 metabolites_file = "C:/Users/YarivBNB02/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/metabolties_info_b_pos_v1.csv"
 index_file = "C:/Users/YarivBNB02/OneDrive - Tel-Aviv University/8_demo_data_for_tool/metabolites/metabolites_ids_b_pos_v2.csv"

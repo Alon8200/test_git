@@ -16,7 +16,6 @@ import igraph as ig
 from dash.dependencies import Input, Output, State, ALL
 import sys
 import matplotlib.pyplot as plt
-import json
 from collections import Counter
 
 print("Mp_Gwas_Zdf_v1.py is starting successfully!")

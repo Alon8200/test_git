@@ -5,7 +5,8 @@ Created on Tue Feb 11 16:56:59 2025
 
 @author: YarivB02
 """
-#CHANGE FROM FEATURE A
+#CHANGE FROM feature_b
+
 import dash
 import dash_cytoscape as cyto
 from dash import html, dcc
